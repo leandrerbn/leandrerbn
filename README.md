@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Salut, moi c'est Léandre 👋
 
 Étudiant en **Pré MSc à EPITECH Rennes**, je me forme au développement **FullStack** (web, mobile, logiciel) après un parcours dans l'**automatisme industriel**.
