@@ -4,12 +4,14 @@
 
 🔎 **À la recherche d'une alternance dès janvier 2027** (2 ans, MSc), en développement FullStack.
 
+<!--
 ## 🧭 Parcours
 
 - 🎓 EPITECH Rennes, Pré MSc (depuis septembre 2026)
-- 🤖 Licence Pro Automatique et Robotique, BTS CRSA, Bac Pro Aéronautique
+- 🤖 Licence Pro Automatisme et Robotique, BTS CRSA, Bac Pro Aéronautique
 - 🏭 Technicien en automatisme, sur environnements **Siemens (TIA Portal)** et **Fanuc (PMC Ladder)**
 - 🧠 Autodidacte, j'apprends par projets et en autonomie
+-->
 
 ## 🛠️ Ce que j'apprends et pratique
 
@@ -25,10 +27,13 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<!--
 ## 🚀 Projets
+-->
 
 <!-- Remplace par tes vrais projets, ou épingle-les directement sur ton profil -->
 
+<!--
 - **[Nom du projet]**: une phrase sur ce qu'il fait et la techno utilisée
 - **Calculatrice d'expressions en C**: [lien du dépôt] (si tu veux le mettre en avant)
 
@@ -40,3 +45,5 @@ Venir de l'industrie m'a appris à travailler avec des contraintes réelles : fi
 
 - 💼 LinkedIn : [ton lien]
 - ✉️ Email : [ton adresse]
+-->
+
